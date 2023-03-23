@@ -1,0 +1,19 @@
+body{
+    font-size: 16px;
+}
+h1{
+    font-family: sans-serif;
+}
+p{
+    font-weight: 600;
+    font-size: 48px;
+}
+#yl{
+    background-color: yellow;
+}
+#brown{
+    background-color: rgb(73, 57, 57);
+}
+#red{
+    background-color: red;
+}
